@@ -1,0 +1,4 @@
+* Aula Prática de TDD
+  Atividade da disciplina de Engenharia de Software baseada no livro Test-Driven
+  Development By Example, escrito por Kent Beck. A versão final contém apenas as classes
+  /Money/ e /MoneyTests/.
